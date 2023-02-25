@@ -20,6 +20,7 @@ class Apis {
             RoyalRoadProvider(),
             FreewebnovelProvider(),
             AzynovelProvider(),
+            mtlNovelProvider(),
             ReadfromnetProvider(),
             AllNovelProvider(),
             RanobesProvider(),
